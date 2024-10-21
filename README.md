@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1280/0*-u0b7K0Q6zfBcQqT.gif)
+
 <h1 align="center">Hi 👋, I'm Anshika Goel</h1>
 <h3 align="center">A passionate person learning flutter development</h3>
 
