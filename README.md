@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshikagoel11" alt="anshikagoel11" /></a> </p>
 
-- 🌱 I’m currently learning **flutter ,dart**
+- 🌱 **Programmer
 
 - ⚡ Fun fact **The best way to appreciate your job is to imagine yourself without one**
 - <br>
