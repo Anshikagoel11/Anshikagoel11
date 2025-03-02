@@ -6,10 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshikagoel11" alt="anshikagoel11" /></a> </p>
 
-- 🌱 **Programmer
-
-- ⚡ Fun fact **The best way to appreciate your job is to imagine yourself without one**
-- <br>
+- 🌱 Learning & Growing!
+- Programmer
+ <br>
 ![Hacktoberfest Badge]([[https://user-images.githubusercontent.com/hacktoberfest.png](https://assets.holopin.io/hf2024levels/level1-sloth-code-tumbler-0-0-0.webp)]
 
 <h3 align="left">Connect with me:</h3>
