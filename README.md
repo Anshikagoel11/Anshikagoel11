@@ -10,7 +10,6 @@
 - 🌱 Learning & Growing!
 - Programmer
  <br>
-![Hacktoberfest Badge]([[https://user-images.githubusercontent.com/hacktoberfest.png](https://assets.holopin.io/hf2024levels/level1-sloth-code-tumbler-0-0-0.webp)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
