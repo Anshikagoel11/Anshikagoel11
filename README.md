@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Anshika Goel</h1>
+<h2 align="center">Currently Upskilling MERN stack</h2>
 <h3 align="center">Always excited to implement things in real world</h3>
-<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikagoel11&label=Profile%20views&color=0e75b6&style=flat" alt="anshikagoel11" />Upskilling MERN stack</p>
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshikagoel11" alt="anshikagoel11" /></a> </p>
