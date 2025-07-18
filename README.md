@@ -92,7 +92,7 @@
 
 ---
 
-### 📢 Quote I Believe In
+### 📢 REMEMBER!
 
 > *"I don’t just build — I bring ideas to life."*
 
