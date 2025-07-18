@@ -9,12 +9,9 @@
 
 ### 🧠 About Me
 
-- 🎓 Computer Science student at AKGEC, Ghaziabad  
-- 💻 Currently exploring **Full Stack Development (MERN)**  
+- 🎓 Computer Science student at AKGEC, Ghaziabad   
 - 🚀 Love building real-world, user-centric products  
 - ⚙️ Actively sharpening my **DSA & problem-solving** skills  
-- 🎯 Always curious to learn how things work under the hood  
-- 🎨 Art lover who believes creativity fuels great development  
 - 🤝 Open to collaborations, internships & learning opportunities  
 
 ---
